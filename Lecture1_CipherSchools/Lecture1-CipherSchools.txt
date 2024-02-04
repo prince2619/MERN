@@ -1,0 +1,7 @@
+Git:- it is a versoin control system .
+
+* it is open source and managed by microsoft.
+* it give more flexiblity to switch to any version of of your project.
+* it track all your changes.
+* In this video we are setup the git with vs code
+*git initialization: for this we use git init command , Modification/adding->git add file name
