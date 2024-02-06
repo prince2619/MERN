@@ -13,4 +13,4 @@ utility commands:
 git config --global user.name "user name"
 git config --global user.email "user email"
 git status -tells the status of tracking
-git log/git log-oneline
+git log/git log --oneline
