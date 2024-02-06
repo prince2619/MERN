@@ -1,0 +1,5 @@
+Agenda
+1.Branching(continue..).
+2.Merging.
+3.Conflicts.
+4.Github and its setup.
