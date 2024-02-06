@@ -1,0 +1,16 @@
+Agenda for the this lecture
+1.Recap of prevoious lecture
+2.Understand git reset revert and checkout.
+3.Brief about branching.
+4.Github.
+
+Recap:
+go inside folder - git init
+make changes - git add. (add file to staging)
+commit: git commit -m"meaning message"
+
+utility commands:
+git config --global user.name "user name"
+git config --global user.email "user email"
+git status -tells the status of tracking
+git log/git log-oneline
