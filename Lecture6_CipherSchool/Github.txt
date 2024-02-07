@@ -1,0 +1,33 @@
+*GitHub:-A centeral remote system where developer can collab and work on a porject.
+
+*Repository:- It is a just like a folder in your local computer.
+
+GitHub is a platform for hosting and collaborating on code repositories using the Git version control system. Its components include:
+
+1. *Repositories*: These are containers for your project's files and revision history. Each repository can have multiple collaborators and branches.
+
+2. *Branches*: Branches allow you to work on different versions of your code simultaneously. You can create new branches to develop features or fix bugs without affecting the main codebase.
+
+3. *Commits*: Commits are snapshots of your code at a specific point in time. They record changes made to your files, along with a message explaining the purpose of the change.
+
+4. *Pull Requests*: Pull requests are proposals for changes to a repository. They allow collaborators to review and discuss the proposed changes before merging them into the main codebase.
+
+5. *Issues*: Issues are used to track bugs, feature requests, and other tasks related to a project. They can be assigned to specific collaborators and labeled for better organization.
+
+6. *GitHub Actions*: GitHub Actions automate workflows such as testing, building, and deploying code. They can be triggered by events like pushes to a repository or the opening of a pull request.
+
+7. *Wikis*: Wikis allow you to create and edit documentation for your project directly on GitHub. They're a great way to provide information to collaborators and users.
+
+8. *Projects*: Projects provide a way to organize and prioritize tasks within a repository. You can create boards with columns to represent different stages of your workflow and move issues or pull requests between them
+
+1. *Forking*: You navigate to the repository you want to fork on GitHub and click the "Fork" button in the upper right corner of the repository page. This creates a copy of the repository under your GitHub account.
+
+2. *Cloning*: Once you have forked the repository, you can clone it to your local machine using Git. This allows you to make changes to the code locally.
+
+3. *Making Changes*: After cloning the repository, you can make changes to the code, add new features, fix bugs, or make any other modifications you see fit.
+
+4. *Committing Changes*: Once you've made changes to the code, you commit them to your forked repository using Git. Commits record the changes you've made along with a message describing the purpose of the change.
+
+5. *Pushing Changes*: After committing your changes locally, you push them to your forked repository on GitHub. This updates your fork with the changes you've made.
+
+6. *Creating Pull Requests*: If you want to contribute your changes back to the original repository, you can create a pull request. A pull request is a proposal to merge your changes into the original repository. The maintainers of the original repository can review your changes, provide feedback, and decide whether to accept or reject the pull request.
