@@ -1,0 +1,12 @@
+############## HTML SEMANTIC ##############
+<header>
+<nav>
+<section>
+<article>
+<aside>
+
+</section>
+
+Semantic tags are HTML elements that carry meaning and provide context to the content within them. These tags help browsers and search engines understand the structure and purpose of the content, which is beneficial for accessibility, search engine optimization (SEO), and overall web development best practices. Examples of semantic tags include `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`, `<aside>`, `<main>`, `<figure>`, and `<figcaption>`.
+
+Non-semantic tags, on the other hand, are HTML elements that do not inherently convey meaning about the content they contain. They are typically used for styling purposes or to structure the layout of a webpage without providing any semantic value. Examples of non-semantic tags include `<div>`, `<span>`, `<table>`, `<br>`, `<hr>`, and `<font>`. While these tags are still essential for web development, it's important to use them appropriately in conjunction with semantic tags to ensure well-structured, accessible, and SEO-friendly web pages.
