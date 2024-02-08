@@ -1,0 +1,20 @@
+########## CSS:cascading StyleSheet ############
+CSS:- It is a language which is used to style the html.
+
+Basic Syntax:
+
+element{
+    properties:value
+}
+
+eg.
+
+h1{
+    color:blue;
+}
+
+Priority of CSS:-
+inline>internal>external
+
+Reading of CSS page is top to bottom so keep the puting the
+style sheet in good manner.
