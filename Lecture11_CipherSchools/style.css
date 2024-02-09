@@ -1,0 +1,30 @@
+#header{
+    background-color: aqua;
+    color: rgb(216, 103, 33) ;
+
+}
+/* specificity
+  id : 100;
+  class: 10;
+  tag:1;
+
+*/
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    background-color: cadetblue;
+}
+
+a{
+    text-decoration: none;
+    color: chartreuse;
+}
+p{
+    font-style: italic;
+    font-family: 'Protest Revolution', sans-serif;
+    color: royalblue;
+}
+header{
+    color: coral;
+    background-color: rgb(235, 223, 208);
+}
